@@ -117,6 +117,15 @@ brew cask install etcher
 brew cask uninstall etcher
 ```
 
+### Chocolatey (Windows)
+
+This package is maintained by [@majkinetor](https://github.com/majkinetor), and
+its kept up to date automatically.
+
+```sh
+choco install etcher
+```
+
 Support
 -------
 
